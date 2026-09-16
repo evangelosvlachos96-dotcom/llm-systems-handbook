@@ -4,6 +4,8 @@
 
 **Author:** Evangelos Vlachos
 
+> **Part 2 of the Applied AI series.** New to agents? Start with **Part 1: [AI Agents Fundamentals](https://github.com/evangelosvlachos96-dotcom/ai-agents-fundamentals)**, which explains the brain, context, instructions, and workspace in plain language.
+
 Building an AI demo takes an afternoon. Building an AI system that works reliably, that you can measure, debug, and improve, is a different discipline. This handbook collects the core concepts behind that discipline in one place, with formulas, worked examples, and short Python snippets.
 
 It's written for software engineers, solution architects, and data practitioners moving into applied AI, and for anyone preparing for roles such as AI engineer, forward deployed engineer, or ML platform engineer.
@@ -732,7 +734,7 @@ Primary sources behind the ideas in this handbook:
 
 ## Companion Project
 
-The concepts in this handbook are implemented in [agentic-rag-eval-platform](https://github.com/YOUR_USERNAME/agentic-rag-eval-platform): hybrid retrieval, grounded generation with citations, a tool-using agent, and an evaluation harness with calibrated LLM judges and reliability metrics.
+The concepts in this handbook are implemented in [agentic-rag-eval-platform](https://github.com/evangelosvlachos96-dotcom/agentic-rag-eval-platform): hybrid retrieval, grounded generation with citations, a tool-using agent, and an evaluation harness with calibrated LLM judges and reliability metrics.
 
 ## Contributing
 
@@ -740,8 +742,8 @@ Found an error or want to add a topic? Issues and pull requests are welcome.
 
 ## Author
 
-**Evangelos Vlachos**
+**Evangelos Vlachos**, Solution Architect
+
 ## License
 
 © 2026 Evangelos Vlachos. Text licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Code snippets licensed under MIT.
-
